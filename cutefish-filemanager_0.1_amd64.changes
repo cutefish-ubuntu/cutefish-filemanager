@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Thu, 16 Oct 2014 17:22:15 +0200
+Source: cutefish-filemanager
+Binary: cutefish-filemanager
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.1
+Distribution: UNRELEASED
+Urgency: low
+Maintainer: CutefishOS <cutefishos@foxmail.com>
+Changed-By: CutefishOS <cutefishos@foxmail.com>
+Description:
+ cutefish-filemanager - CutefishOS File Manager
+Changes:
+ cutefish-filemanager (0.1) UNRELEASED; urgency=low
+ .
+   * Initial release (CutefishOS)  <cutefishos@foxmail.com>
+Checksums-Sha1:
+ 0c650450bc70fd0d84ec4942011c87002c4ba7fa 2902996 cutefish-filemanager-dbgsym_0.1_amd64.ddeb
+ fbaf8abaf7a37cf1af226b40383cd08db75eda9f 18777 cutefish-filemanager_0.1_amd64.buildinfo
+ a9e5f3bf940dd5686c118ac665a2418a44a6cbde 140328 cutefish-filemanager_0.1_amd64.deb
+Checksums-Sha256:
+ 82ae68874d2508a161259d8b2cbc7a199266ea7f6543c9e380278f5bd4af9e9d 2902996 cutefish-filemanager-dbgsym_0.1_amd64.ddeb
+ 7982f8f510f44ea48d22bf59759300c3ff0673a6aaedfd1df32ff5be364b35c2 18777 cutefish-filemanager_0.1_amd64.buildinfo
+ 99cf27ec959c35b10e88e97ad76aea029e8100e6f3c05306128a1a587d0ea600 140328 cutefish-filemanager_0.1_amd64.deb
+Files:
+ 04d5e7b58d5c4b81f6d57e15590166ef 2902996 debug optional cutefish-filemanager-dbgsym_0.1_amd64.ddeb
+ e90fa19ab89f15f14268be0b919cb02d 18777 devel optional cutefish-filemanager_0.1_amd64.buildinfo
+ 75ae0f90cc345acae0ca555ad970055e 140328 devel optional cutefish-filemanager_0.1_amd64.deb
