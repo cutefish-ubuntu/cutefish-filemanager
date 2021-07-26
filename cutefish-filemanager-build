@@ -1,0 +1,6 @@
+#!/bin/bash
+git clone https://github.com/cutefishos/filemanager.git
+mkdir ~/filemanager/build $$ cd ~/filemanager/build
+cmake ..
+make
+sudo make install
